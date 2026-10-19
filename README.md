@@ -1,2 +1,2 @@
-# samples
+# snds
 samples for Strudel
