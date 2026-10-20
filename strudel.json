@@ -1,6 +1,7 @@
 {
-  "click0": "phamlin/click0.wav",
-  "click1": "phamlin/click1.wav",
-  "click2": "phamlin/click2.wav",
-  "click3": "phamlin/click3.wav"
+  "_base": "https://raw.githubusercontent.com/psh-elmus/str/main/",
+  "click0": ["phamlin/click0.wav"],
+  "click1": ["phamlin/click1.wav"],
+  "click2": ["phamlin/click2.wav"],
+  "click3": ["phamlin/click3.wav"]
 }
